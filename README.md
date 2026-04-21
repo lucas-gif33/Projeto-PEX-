@@ -149,7 +149,7 @@ Este projeto consolidou conhecimentos em:
 
 ## 👤 Autor
 
-**Seu Nome**
+**Lucas Soares Pinto**
 - Graduando em Banco de Dados - Descomplica/Uniamérica
 - 5º Período
 - GitHub: [@lucas.http](https://github.com/lucas-gif33)
